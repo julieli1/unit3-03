@@ -1,0 +1,15 @@
+#uno {
+  text-align: center;
+  position: fixed;
+  left: 50%;
+  top: 0;
+}
+
+.images {
+  float: right;
+}
+
+#twotimesfive {
+  height: 200px;
+  width: 500px;
+}
